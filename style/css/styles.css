@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     /*background-color: #F8C8DC;*/
-    background-color: #ea8ab3;
+    background-color: #156868;
 }
 
 /* Position the "No" button absolutely within body */
@@ -36,13 +36,13 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 20px;
     /* optional: adds some space between the buttons */
 }
 
 .btn {
-    background-color: #FFB6C1;
+    background-color: #931225;
     color: white;
     padding: 15px 32px;
     text-align: center;
